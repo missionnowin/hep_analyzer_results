@@ -1,0 +1,39 @@
+{
+  "cumulative_analysis": {
+    "total_events": 10000,
+    "signatures_detected": 4,
+    "signature_types": [
+      "forbidden_kinematics"
+    ]
+  },
+  "signatures": [
+    {
+      "type": "forbidden_kinematics",
+      "strength": 0.11092985318107668,
+      "confidence": 0.09983686786296901,
+      "affected_particles": 68,
+      "description": "mod=(very_forward=16, very_backward=41, extreme_sideways=624) unm=(very_forward=12, very_backward=38, extreme_sideways=563) excess=68"
+    },
+    {
+      "type": "forbidden_kinematics",
+      "strength": 0.07705192629815745,
+      "confidence": 0.06934673366834171,
+      "affected_particles": 46,
+      "description": "mod=(very_forward=13, very_backward=41, extreme_sideways=589) unm=(very_forward=10, very_backward=41, extreme_sideways=546) excess=46"
+    },
+    {
+      "type": "forbidden_kinematics",
+      "strength": 0.06466876971608833,
+      "confidence": 0.0582018927444795,
+      "affected_particles": 41,
+      "description": "mod=(very_forward=8, very_backward=56, extreme_sideways=611) unm=(very_forward=9, very_backward=40, extreme_sideways=585) excess=41"
+    },
+    {
+      "type": "forbidden_kinematics",
+      "strength": 0.11674347158218126,
+      "confidence": 0.10506912442396314,
+      "affected_particles": 76,
+      "description": "mod=(very_forward=10, very_backward=48, extreme_sideways=669) unm=(very_forward=12, very_backward=47, extreme_sideways=592) excess=76"
+    }
+  ]
+}

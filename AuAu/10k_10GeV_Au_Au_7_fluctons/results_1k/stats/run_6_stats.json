@@ -1,0 +1,108 @@
+{
+  "run_name": "run_6",
+  "modified": {
+    "n_events": 1000,
+    "n_total_particles": 969533,
+    "system_label": "Au+Au @ 10.0 GeV",
+    "sqrt_s_NN": 10.0,
+    "A1": 197,
+    "Z1": 79,
+    "A2": 197,
+    "Z2": 79,
+    "n_avg_per_event": 969.533,
+    "n_std_per_event": 19.80931374379234,
+    "pt": {
+      "mean": 0.4623647630214691,
+      "std": 0.3533613979816437,
+      "median": 0.3666898012161255,
+      "min": 0.00022989882563706487,
+      "max": 3.4351797103881836
+    },
+    "y": {
+      "mean": 0.0001231222558999434,
+      "std": 0.8631882667541504,
+      "median": 2.705977749428712e-05,
+      "min": -3.4945905208587646,
+      "max": 3.6508431434631348
+    },
+    "eta": {
+      "mean": -5.380523725762032e-05,
+      "std": 1.3412877321243286,
+      "median": 3.5226963518653065e-05,
+      "min": -8.1949462890625,
+      "max": 7.998649597167969
+    },
+    "theta_deg": {
+      "mean": 90.00542449951172,
+      "std": 49.689754486083984
+    },
+    "phi_deg": {
+      "mean": 179.91053771972656,
+      "std": 103.90669250488281
+    }
+  },
+  "unmodified": {
+    "n_events": 1000,
+    "n_total_particles": 989614,
+    "system_label": "Au+Au @ 10.0 GeV",
+    "sqrt_s_NN": 10.0,
+    "A1": 197,
+    "Z1": 79,
+    "A2": 197,
+    "Z2": 79,
+    "n_avg_per_event": 989.614,
+    "n_std_per_event": 18.69692498781551,
+    "pt": {
+      "mean": 0.4697633385658264,
+      "std": 0.35477426648139954,
+      "median": 0.3751203417778015,
+      "min": 0.0005802579107694328,
+      "max": 3.706247091293335
+    },
+    "y": {
+      "mean": -0.00038153264904394746,
+      "std": 0.8449844121932983,
+      "median": 0.00024065544130280614,
+      "min": -3.6351265907287598,
+      "max": 3.8675637245178223
+    },
+    "eta": {
+      "mean": -0.0007983511313796043,
+      "std": 1.2614691257476807,
+      "median": 0.0003299661329947412,
+      "min": -8.292866706848145,
+      "max": 6.997343063354492
+    },
+    "theta_deg": {
+      "mean": 90.01303100585938,
+      "std": 48.799278259277344
+    },
+    "phi_deg": {
+      "mean": 180.0137939453125,
+      "std": 103.90470123291016
+    }
+  },
+  "cumulative": {
+    "total_events_modified": 1000,
+    "total_events_unmodified": 1000,
+    "total_particles_modified": 969533,
+    "total_particles_unmodified": 989614,
+    "signatures_detected": 0,
+    "avg_multiplicity_modified": 969.533,
+    "avg_multiplicity_unmodified": 989.614,
+    "forbidden_breakdown_modified": {
+      "very_forward": 32,
+      "very_backward": 84,
+      "impossible_kin": 0,
+      "extreme_sideways": 1135
+    },
+    "forbidden_breakdown_unmodified": {
+      "very_forward": 23,
+      "very_backward": 68,
+      "impossible_kin": 0,
+      "extreme_sideways": 1213
+    },
+    "n_angular_samples_modified": 969533,
+    "n_angular_samples_unmodified": 989614
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "cumulative_analysis": {
+    "total_events": 10000,
+    "signatures_detected": 3,
+    "signature_types": [
+      "forbidden_kinematics"
+    ]
+  },
+  "signatures": [
+    {
+      "type": "forbidden_kinematics",
+      "strength": 0.05619834710743802,
+      "confidence": 0.05057851239669422,
+      "affected_particles": 34,
+      "description": "mod=(very_forward=14, very_backward=39, extreme_sideways=586) unm=(very_forward=12, very_backward=34, extreme_sideways=559) excess=34"
+    },
+    {
+      "type": "forbidden_kinematics",
+      "strength": 0.09508716323296355,
+      "confidence": 0.0855784469096672,
+      "affected_particles": 60,
+      "description": "mod=(very_forward=10, very_backward=30, extreme_sideways=651) unm=(very_forward=7, very_backward=36, extreme_sideways=588) excess=60"
+    },
+    {
+      "type": "forbidden_kinematics",
+      "strength": 0.05627009646302251,
+      "confidence": 0.05064308681672026,
+      "affected_particles": 35,
+      "description": "mod=(very_forward=8, very_backward=35, extreme_sideways=614) unm=(very_forward=13, very_backward=31, extreme_sideways=578) excess=35"
+    }
+  ]
+}
