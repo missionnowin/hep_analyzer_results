@@ -2,10 +2,6 @@
 
 Repository of analysis outputs produced with the [**hep_analyzer**](https://github.com/missionnowin/hep_analyzer) framework – an analyzer for **OSCAR**, **HepMC** and **phsd.dat** event formats.
 
-This repository is intentionally **code‑light / results‑heavy**: it stores plots, tables, intermediate data and minimal metadata required to understand and reproduce physics results from `hep_analyzer`. The analysis code itself lives in the main repository:
-
-> **Main analysis framework:** [missionnowin/hep_analyzer](https://github.com/missionnowin/hep_analyzer)
-
 ---
 
 ## Purpose
