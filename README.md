@@ -84,20 +84,6 @@ These conventions are guidelines rather than strict rules, but consistent naming
 ---
 
 ## How to use this repository
-
-### Cloning
-
-```bash
-git clone https://github.com/missionnowin/hep_analyzer_results.git
-cd hep_analyzer_results
-```
-
-If large binary artifacts are tracked via Git LFS, ensure Git LFS is installed before cloning:
-
-```bash
-git lfs install
-```
-
 ### Browsing analyses
 
 For each study under `studies/`:
@@ -117,29 +103,6 @@ For each study under `studies/`:
    - `hep_analyzer` version / commit.
    - Generator versions.
    - Command lines, seeds, and environment details.
-
----
-
-## Reproducing results
-
-To reproduce a given set of results:
-
-1. Identify the relevant `studies/<study_name>/` directory.
-2. Open the corresponding configuration file(s) under `config/`.
-3. Clone and install the main framework:
-
-   ```bash
-   git clone https://github.com/missionnowin/hep_analyzer.git
-   cd hep_analyzer
-   # Follow installation instructions from that repo
-   ```
-
-4. Run `hep_analyzer` with the same configuration and (if possible) the same input data and seeds.
-5. Write outputs into a fresh directory (or overwrite the existing one in a new branch) and compare:
-   - Histograms/plots.
-   - Numerical tables.
-
-Wherever possible, the aim is that one or a few documented commands are sufficient to regenerate all results for a particular study.
 
 ---
 
