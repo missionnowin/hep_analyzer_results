@@ -1,0 +1,110 @@
+{
+  "run_name": "run_9",
+  "modified": {
+    "n_events": 1000,
+    "n_total_particles": 393696,
+    "system_label": "Xe-129+Au-197 @ 2.0 GeV",
+    "sqrt_s_NN": 2.0,
+    "A1": 129,
+    "Z1": 54,
+    "A2": 197,
+    "Z2": 79,
+    "n_avg_per_event": 393.696,
+    "n_std_per_event": 12.182757651697747,
+    "pt": {
+      "mean": 0.4229106307029724,
+      "std": 0.29190531373023987,
+      "median": 0.3580748438835144,
+      "min": 0.000602771295234561,
+      "max": 2.775585174560547
+    },
+    "y": {
+      "mean": 1.6930238008499146,
+      "std": 0.6237475275993347,
+      "median": 1.6518452167510986,
+      "min": -0.8916741013526917,
+      "max": 4.479379653930664
+    },
+    "eta": {
+      "mean": 2.59407639503479,
+      "std": 0.8761920928955078,
+      "median": 2.480769634246826,
+      "min": -2.451662540435791,
+      "max": 9.785447120666504
+    },
+    "theta_deg": {
+      "mean": 11.654499053955078,
+      "std": 9.586036682128906
+    },
+    "phi_deg": {
+      "mean": 180.11355590820312,
+      "std": 103.62348175048828
+    }
+  },
+  "unmodified": {
+    "n_events": 1000,
+    "n_total_particles": 393768,
+    "system_label": "Xe-129+Au-197 @ 2.0 GeV",
+    "sqrt_s_NN": 2.0,
+    "A1": 129,
+    "Z1": 54,
+    "A2": 197,
+    "Z2": 79,
+    "n_avg_per_event": 393.768,
+    "n_std_per_event": 11.534130916545035,
+    "pt": {
+      "mean": 0.42569541931152344,
+      "std": 0.2922530770301819,
+      "median": 0.36214765906333923,
+      "min": 0.00019765800971072167,
+      "max": 2.9474265575408936
+    },
+    "y": {
+      "mean": 1.6932013034820557,
+      "std": 0.6209947466850281,
+      "median": 1.653045892715454,
+      "min": -1.0063645839691162,
+      "max": 4.722010612487793
+    },
+    "eta": {
+      "mean": 2.5869109630584717,
+      "std": 0.8753608465194702,
+      "median": 2.472747802734375,
+      "min": -3.238839626312256,
+      "max": 8.895511627197266
+    },
+    "theta_deg": {
+      "mean": 11.731158256530762,
+      "std": 9.659976959228516
+    },
+    "phi_deg": {
+      "mean": 179.90565490722656,
+      "std": 103.5811996459961
+    }
+  },
+  "cumulative": {
+    "total_events_modified": 1000,
+    "total_events_unmodified": 1000,
+    "total_particles_modified": 393696,
+    "total_particles_unmodified": 393768,
+    "signatures_detected": 0,
+    "avg_multiplicity_modified": 393.696,
+    "avg_multiplicity_unmodified": 393.768,
+    "forbidden_breakdown_modified": {
+      "very_forward": 6162,
+      "very_backward": 0,
+      "impossible_kin": 0,
+      "extreme_sideways": 0
+    },
+    "forbidden_breakdown_unmodified": {
+      "very_forward": 6190,
+      "very_backward": 0,
+      "impossible_kin": 0,
+      "extreme_sideways": 0
+    },
+    "total_forbidden_modified": 6162,
+    "total_forbidden_unmodified": 6190,
+    "n_angular_samples_modified": 393696,
+    "n_angular_samples_unmodified": 393768
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "run_name": "run_8",
+  "modified": {
+    "n_events": 1000,
+    "n_total_particles": 394370,
+    "system_label": "Xe-129+Au-197 @ 2.0 GeV",
+    "sqrt_s_NN": 2.0,
+    "A1": 129,
+    "Z1": 54,
+    "A2": 197,
+    "Z2": 79,
+    "n_avg_per_event": 394.37,
+    "n_std_per_event": 11.639463046034383,
+    "pt": {
+      "mean": 0.42031124234199524,
+      "std": 0.2919554114341736,
+      "median": 0.35567325353622437,
+      "min": 0.0007296046242117882,
+      "max": 2.9420337677001953
+    },
+    "y": {
+      "mean": 1.6928585767745972,
+      "std": 0.6250902414321899,
+      "median": 1.6501190662384033,
+      "min": -1.062355399131775,
+      "max": 4.535752296447754
+    },
+    "eta": {
+      "mean": 2.6013200283050537,
+      "std": 0.8952180743217468,
+      "median": 2.478428602218628,
+      "min": -2.966763973236084,
+      "max": 9.672675132751465
+    },
+    "theta_deg": {
+      "mean": 11.671059608459473,
+      "std": 9.654674530029297
+    },
+    "phi_deg": {
+      "mean": 179.91293334960938,
+      "std": 103.59243774414062
+    }
+  },
+  "unmodified": {
+    "n_events": 1000,
+    "n_total_particles": 394114,
+    "system_label": "Xe-129+Au-197 @ 2.0 GeV",
+    "sqrt_s_NN": 2.0,
+    "A1": 129,
+    "Z1": 54,
+    "A2": 197,
+    "Z2": 79,
+    "n_avg_per_event": 394.114,
+    "n_std_per_event": 11.696452624620852,
+    "pt": {
+      "mean": 0.4257451593875885,
+      "std": 0.2930155098438263,
+      "median": 0.3612591624259949,
+      "min": 0.00042175932321697474,
+      "max": 2.909101963043213
+    },
+    "y": {
+      "mean": 1.6926571130752563,
+      "std": 0.6200734376907349,
+      "median": 1.6520988941192627,
+      "min": -1.3459867238998413,
+      "max": 4.538971424102783
+    },
+    "eta": {
+      "mean": 2.586021661758423,
+      "std": 0.8754749894142151,
+      "median": 2.47025728225708,
+      "min": -2.3032736778259277,
+      "max": 9.071060180664062
+    },
+    "theta_deg": {
+      "mean": 11.737173080444336,
+      "std": 9.604976654052734
+    },
+    "phi_deg": {
+      "mean": 179.88754272460938,
+      "std": 103.60607147216797
+    }
+  },
+  "cumulative": {
+    "total_events_modified": 1000,
+    "total_events_unmodified": 1000,
+    "total_particles_modified": 394370,
+    "total_particles_unmodified": 394114,
+    "signatures_detected": 1,
+    "avg_multiplicity_modified": 394.37,
+    "avg_multiplicity_unmodified": 394.114,
+    "forbidden_breakdown_modified": {
+      "very_forward": 7193,
+      "very_backward": 0,
+      "impossible_kin": 0,
+      "extreme_sideways": 0
+    },
+    "forbidden_breakdown_unmodified": {
+      "very_forward": 6255,
+      "very_backward": 0,
+      "impossible_kin": 0,
+      "extreme_sideways": 0
+    },
+    "total_forbidden_modified": 7193,
+    "total_forbidden_unmodified": 6255,
+    "n_angular_samples_modified": 394370,
+    "n_angular_samples_unmodified": 394114
+  }
+}

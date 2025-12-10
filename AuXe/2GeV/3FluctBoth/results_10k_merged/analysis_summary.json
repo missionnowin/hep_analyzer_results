@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-12-10 18:26:47",
+  "mode": "comparison",
+  "total_events_analyzed": 10000,
+  "total_signatures_detected": 1,
+  "signature_types": {
+    "forbidden_kinematics_aggregated": 1
+  },
+  "average_signature_strength": 0.196,
+  "average_signature_confidence": 0.176,
+  "run_summaries": [
+    {
+      "run": "run_1",
+      "signatures": 1
+    }
+  ]
+}
