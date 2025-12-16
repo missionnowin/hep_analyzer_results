@@ -1,0 +1,18 @@
+{
+  "cumulative_analysis": {
+    "total_events": 1000,
+    "signatures_detected": 1,
+    "signature_types": [
+      "forbidden_kinematics_aggregated"
+    ]
+  },
+  "signatures": [
+    {
+      "type": "forbidden_kinematics_aggregated",
+      "strength": 0.2778111244497799,
+      "confidence": 0.2500300120048019,
+      "affected_particles": 2777,
+      "description": "AGGREGATED: mod=(very_forward=12760, extreme_sideways=13) unm=(very_forward=9982, extreme_sideways=14) excess=2777, total_ratio=12773/9996"
+    }
+  ]
+}

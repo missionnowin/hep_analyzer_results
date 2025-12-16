@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-10 18:23:59",
+  "timestamp": "2025-12-16 02:31:21",
   "mode": "comparison",
   "total_events_analyzed": 10000,
-  "total_signatures_detected": 10,
+  "total_signatures_detected": 1,
   "signature_types": {
-    "forbidden_kinematics_aggregated": 10
+    "forbidden_kinematics_aggregated": 1
   },
-  "average_signature_strength": 0.196,
-  "average_signature_confidence": 0.176,
+  "average_signature_strength": 0.064,
+  "average_signature_confidence": 0.057,
   "run_summaries": [
     {
       "run": "run_10",
-      "signatures": 1
+      "signatures": 0
     },
     {
       "run": "run_1",
@@ -19,35 +19,35 @@
     },
     {
       "run": "run_2",
-      "signatures": 1
+      "signatures": 0
     },
     {
       "run": "run_3",
-      "signatures": 1
+      "signatures": 0
     },
     {
       "run": "run_4",
-      "signatures": 1
+      "signatures": 0
     },
     {
       "run": "run_5",
-      "signatures": 1
+      "signatures": 0
     },
     {
       "run": "run_6",
-      "signatures": 1
+      "signatures": 0
     },
     {
       "run": "run_7",
-      "signatures": 1
+      "signatures": 0
     },
     {
       "run": "run_8",
-      "signatures": 1
+      "signatures": 0
     },
     {
       "run": "run_9",
-      "signatures": 1
+      "signatures": 0
     }
   ]
 }

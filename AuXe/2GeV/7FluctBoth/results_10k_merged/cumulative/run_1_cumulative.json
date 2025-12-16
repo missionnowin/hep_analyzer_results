@@ -1,0 +1,8 @@
+{
+  "cumulative_analysis": {
+    "total_events": 10000,
+    "signatures_detected": 0,
+    "signature_types": []
+  },
+  "signatures": []
+}

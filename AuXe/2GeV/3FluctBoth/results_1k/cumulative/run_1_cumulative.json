@@ -9,10 +9,10 @@
   "signatures": [
     {
       "type": "forbidden_kinematics_aggregated",
-      "strength": 0.1867547534643893,
-      "confidence": 0.16807927811795037,
-      "affected_particles": 1159,
-      "description": "AGGREGATED: mod=(very_forward=7365) unm=(very_forward=6206) excess=1159, total_ratio=7365/6206"
+      "strength": 0.0635593220338983,
+      "confidence": 0.057203389830508475,
+      "affected_particles": 30,
+      "description": "AGGREGATED: mod=(very_forward=498, extreme_sideways=4) unm=(very_forward=462, extreme_sideways=10) excess=30, total_ratio=502/472"
     }
   ]
 }

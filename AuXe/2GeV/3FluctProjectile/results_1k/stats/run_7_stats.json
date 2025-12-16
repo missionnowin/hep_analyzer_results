@@ -19,22 +19,22 @@
       "max": 3.522521495819092
     },
     "y": {
-      "mean": 1.6930633783340454,
-      "std": 0.6208972334861755,
-      "median": 1.653091311454773,
-      "min": -0.8186156153678894,
-      "max": 4.668854713439941
+      "mean": 0.891997754573822,
+      "std": 0.6208971738815308,
+      "median": 0.9319695234298706,
+      "min": -2.083547353744507,
+      "max": 3.4036738872528076
     },
     "eta": {
-      "mean": 2.590961217880249,
-      "std": 0.8754627108573914,
-      "median": 2.4787893295288086,
-      "min": -2.7593610286712646,
-      "max": 8.884805679321289
+      "mean": 1.5390045642852783,
+      "std": 1.2379786968231201,
+      "median": 1.498598337173462,
+      "min": -6.02683687210083,
+      "max": 7.797178745269775
     },
     "theta_deg": {
-      "mean": 11.695195198059082,
-      "std": 9.67182731628418
+      "mean": 36.80735778808594,
+      "std": 35.20339584350586
     },
     "phi_deg": {
       "mean": 180.0955810546875,
@@ -60,22 +60,22 @@
       "max": 2.5042166709899902
     },
     "y": {
-      "mean": 1.6929038763046265,
+      "mean": 0.8921571969985962,
       "std": 0.618303656578064,
-      "median": 1.6516361236572266,
-      "min": -0.8492600321769714,
-      "max": 4.6061177253723145
+      "median": 0.9334247708320618,
+      "min": -2.0210134983062744,
+      "max": 3.434330701828003
     },
     "eta": {
-      "mean": 2.5815978050231934,
-      "std": 0.8739333748817444,
-      "median": 2.466888904571533,
-      "min": -2.880204916000366,
-      "max": 9.14682674407959
+      "mean": 1.529356598854065,
+      "std": 1.2224957942962646,
+      "median": 1.4957420825958252,
+      "min": -5.488500595092773,
+      "max": 8.977606773376465
     },
     "theta_deg": {
-      "mean": 11.780179023742676,
-      "std": 9.64477252960205
+      "mean": 36.813087463378906,
+      "std": 35.128265380859375
     },
     "phi_deg": {
       "mean": 179.84408569335938,
@@ -91,19 +91,19 @@
     "avg_multiplicity_modified": 394.627,
     "avg_multiplicity_unmodified": 394.719,
     "forbidden_breakdown_modified": {
-      "very_forward": 6203,
+      "very_forward": 490,
       "very_backward": 0,
       "impossible_kin": 0,
-      "extreme_sideways": 0
+      "extreme_sideways": 12
     },
     "forbidden_breakdown_unmodified": {
-      "very_forward": 6121,
+      "very_forward": 477,
       "very_backward": 0,
       "impossible_kin": 0,
-      "extreme_sideways": 0
+      "extreme_sideways": 13
     },
-    "total_forbidden_modified": 6203,
-    "total_forbidden_unmodified": 6121,
+    "total_forbidden_modified": 502,
+    "total_forbidden_unmodified": 490,
     "n_angular_samples_modified": 394627,
     "n_angular_samples_unmodified": 394719
   }

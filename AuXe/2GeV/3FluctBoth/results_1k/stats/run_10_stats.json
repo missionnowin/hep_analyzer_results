@@ -19,22 +19,22 @@
       "max": 2.606726884841919
     },
     "y": {
-      "mean": 1.692427158355713,
+      "mean": 0.8926337957382202,
       "std": 0.6266047358512878,
-      "median": 1.6477744579315186,
-      "min": -1.0150175094604492,
-      "max": 4.616835594177246
+      "median": 0.9372867345809937,
+      "min": -2.0317420959472656,
+      "max": 3.6000709533691406
     },
     "eta": {
-      "mean": 2.60452938079834,
-      "std": 0.8993708491325378,
-      "median": 2.480536460876465,
-      "min": -1.994397521018982,
-      "max": 8.83121395111084
+      "mean": 1.532045841217041,
+      "std": 1.2628693580627441,
+      "median": 1.5051820278167725,
+      "min": -5.632507801055908,
+      "max": 8.525598526000977
     },
     "theta_deg": {
-      "mean": 11.662487983703613,
-      "std": 9.693804740905762
+      "mean": 37.296661376953125,
+      "std": 36.384742736816406
     },
     "phi_deg": {
       "mean": 179.83802795410156,
@@ -60,22 +60,22 @@
       "max": 2.6245028972625732
     },
     "y": {
-      "mean": 1.6924959421157837,
+      "mean": 0.892565131187439,
       "std": 0.6210424304008484,
-      "median": 1.6509877443313599,
-      "min": -0.8735740184783936,
-      "max": 4.420804977416992
+      "median": 0.9340734481811523,
+      "min": -1.8356822729110718,
+      "max": 3.4586424827575684
     },
     "eta": {
-      "mean": 2.585812568664551,
-      "std": 0.8744885325431824,
-      "median": 2.470445156097412,
-      "min": -2.381056070327759,
-      "max": 9.273999214172363
+      "mean": 1.5329093933105469,
+      "std": 1.229156494140625,
+      "median": 1.4992549419403076,
+      "min": -5.357850074768066,
+      "max": 9.64723014831543
     },
     "theta_deg": {
-      "mean": 11.734526634216309,
-      "std": 9.61382007598877
+      "mean": 36.859920501708984,
+      "std": 35.31577682495117
     },
     "phi_deg": {
       "mean": 180.06300354003906,
@@ -87,23 +87,23 @@
     "total_events_unmodified": 1000,
     "total_particles_modified": 393554,
     "total_particles_unmodified": 393866,
-    "signatures_detected": 1,
+    "signatures_detected": 0,
     "avg_multiplicity_modified": 393.554,
     "avg_multiplicity_unmodified": 393.866,
     "forbidden_breakdown_modified": {
-      "very_forward": 7269,
+      "very_forward": 483,
       "very_backward": 0,
       "impossible_kin": 0,
-      "extreme_sideways": 0
+      "extreme_sideways": 6
     },
     "forbidden_breakdown_unmodified": {
-      "very_forward": 6181,
+      "very_forward": 546,
       "very_backward": 0,
       "impossible_kin": 0,
-      "extreme_sideways": 0
+      "extreme_sideways": 9
     },
-    "total_forbidden_modified": 7269,
-    "total_forbidden_unmodified": 6181,
+    "total_forbidden_modified": 489,
+    "total_forbidden_unmodified": 555,
     "n_angular_samples_modified": 393554,
     "n_angular_samples_unmodified": 393866
   }
